@@ -1,4 +1,4 @@
-import "./ProjectDetails.css";
+import "./projectDetails.css";
 
 import youtube from "../../assets/projects/youtube analytics db.png";
 

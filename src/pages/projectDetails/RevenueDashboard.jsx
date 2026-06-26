@@ -1,4 +1,4 @@
-import "./ProjectDetails.css";
+import "./projectDetails.css";
 
 import revenue1 from "../../assets/projects/Revenue Customer Behaviour/revenue1.png";
 import revenue2 from "../../assets/projects/Revenue Customer Behaviour/revenue2.png";

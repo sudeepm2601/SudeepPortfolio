@@ -1,4 +1,4 @@
-import "./ProjectDetails.css";
+import "./projectDetails.css";
 
 import ecommerce from "../../assets/projects/E-commerce db.png";
 
