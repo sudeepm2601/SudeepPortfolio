@@ -1,5 +1,5 @@
 import Hero from "../components/Hero";
-import Stats from "../components/Stats";
+import Stats from "../components/stats";
 
 function Home() {
   return (

@@ -1,4 +1,4 @@
-import "./Hero.css";
+import "./hero.css";
 import profile from "../assets/profile.jpeg";
 import { TypeAnimation } from "react-type-animation";
 import { Link } from "react-router-dom";
